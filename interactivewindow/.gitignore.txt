@@ -1,0 +1,15 @@
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+Debug/
+Release/
+x64/
+x86/
+
+CMakeFiles/
+CMakeCache.txt
+
+Thumbs.db
+.DS_Store
